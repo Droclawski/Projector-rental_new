@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Rent a projector">e4ac033d9715711078b6faafe153afbc</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-16 13:07:24</sys_created_on>
+        <sys_id>72ad43719755711078b6faafe153af20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rent a projector.Users with 'x_1100479_projecto.rent_employee' role</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_72ad43719755711078b6faafe153af20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-16 13:07:24</sys_updated_on>
+        <user_criteria display_value="Users with 'x_1100479_projecto.rent_employee' role">bc3e4b319755711078b6faafe153afab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Projector rental">e241477997d1711078b6faafe153af76</application>
+        <file_path/>
+        <instance_id>97a839a7dbcc73400b9d21c4059619ac</instance_id>
+        <instance_name>dev74730</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_72ad43719755711078b6faafe153af20</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Rent a projector">e4ac033d9715711078b6faafe153afbc</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-16 13:07:24</sys_created_on>
+        <sys_id>72ad43719755711078b6faafe153af20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rent a projector.Users with 'x_1100479_projecto.rent_employee' role</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_72ad43719755711078b6faafe153af20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-16 13:07:24</sys_updated_on>
+        <user_criteria display_value="Users with 'x_1100479_projecto.rent_employee' role">bc3e4b319755711078b6faafe153afab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+</record_update>]]></payload>
+        <payload_hash>378970395</payload_hash>
+        <record_name>Rent a projector.Users with 'x_1100479_projecto.rent_employee' role</record_name>
+        <reverted_from/>
+        <source>71a8dc1f9715311078b6faafe153afcf</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-20 15:43:14</sys_created_on>
+        <sys_id>55b8185f9715311078b6faafe153af5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18ab3427f540000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-20 15:43:14</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>15b8185fa4153110e31c8e8a8254935d</update_guid>
+        <update_guid_history>15b8185fa4153110e31c8e8a8254935d:378970395</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Rent a projector.Users with 'x_1100479_projecto.rent_employee' role">d6db29f39751311078b6faafe153af20</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-22 11:03:26</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>c032f32fb08b45fe9f4b8475457acf84</sys_id>
+        <sys_metadata>72ad43719755711078b6faafe153af20</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Rent a projector.Users with 'x_1100479_projecto.rent_employee' role</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_scope_delete display_value="">008e4ad773d54f948001eeefeb7d0f51</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_72ad43719755711078b6faafe153af20</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_72ad43719755711078b6faafe153af20">55b8185f9715311078b6faafe153af5d</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-22 11:03:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

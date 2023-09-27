@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Rent a projector">e4ac033d9715711078b6faafe153afbc</sc_cat_item>
+        <sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-16 13:01:05</sys_created_on>
+        <sys_id>033d4b319755711078b6faafe153af76</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.Rent a projector</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_update_name>sc_cat_item_category_033d4b319755711078b6faafe153af76</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-16 13:01:05</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Projector rental">e241477997d1711078b6faafe153af76</application>
+        <file_path/>
+        <instance_id>97a839a7dbcc73400b9d21c4059619ac</instance_id>
+        <instance_name>dev74730</instance_name>
+        <name>sc_cat_item_category_033d4b319755711078b6faafe153af76</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Rent a projector">e4ac033d9715711078b6faafe153afbc</sc_cat_item><sc_category display_value="Hardware">d258b953c611227a0146101fb1be7c31</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-16 13:01:05</sys_created_on><sys_id>033d4b319755711078b6faafe153af76</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Hardware.Rent a projector</sys_name><sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package><sys_policy/><sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope><sys_update_name>sc_cat_item_category_033d4b319755711078b6faafe153af76</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-16 13:01:05</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1128242406</payload_hash>
+        <record_name>Hardware.Rent a projector</record_name>
+        <reverted_from/>
+        <source>75dbe5f39751311078b6faafe153af60</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-22 11:03:25</sys_created_on>
+        <sys_id>1adbe5f39751311078b6faafe153afd6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18abc8f0adf0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-22 11:03:25</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>dadbe5f305513110b59527ffd6628fd5</update_guid>
+        <update_guid_history>dadbe5f305513110b59527ffd6628fd5:1128242406,5db8185ff81531100bfc5858512c674d:1090814160</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Hardware.Rent a projector">5edbe5f39751311078b6faafe153afeb</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2023-09-22 11:03:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0d6fe9432d9b472184cffb43c6ce0201</sys_id>
+        <sys_metadata>033d4b319755711078b6faafe153af76</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware.Rent a projector</sys_name>
+        <sys_package display_value="Projector rental" source="x_1100479_projecto">e241477997d1711078b6faafe153af76</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Projector rental">e241477997d1711078b6faafe153af76</sys_scope>
+        <sys_scope_delete display_value="">008e4ad773d54f948001eeefeb7d0f51</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_033d4b319755711078b6faafe153af76</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_033d4b319755711078b6faafe153af76">1adbe5f39751311078b6faafe153afd6</sys_update_version>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2023-09-22 11:03:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
